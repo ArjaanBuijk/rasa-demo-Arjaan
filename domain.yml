@@ -590,6 +590,8 @@ responses:
   - text: I am impatient user 01
   utter_normal_02:
   - text: Normal 02
+  utter_normal_03:
+  - text: normal 03
 actions:
 - action_default_ask_affirmation
 - action_default_fallback
@@ -756,6 +758,7 @@ actions:
 - utter_already_have_a_coffee
 - utter_01_impatient_user
 - utter_normal_02
+- utter_normal_03
 forms:
 - sales_form
 - subscribe_newsletter_form
