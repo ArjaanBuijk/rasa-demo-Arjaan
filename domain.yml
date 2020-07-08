@@ -592,6 +592,8 @@ responses:
   - text: Normal 02
   utter_normal_04:
   - text: normal 04
+  utter_normal_06:
+  - text: normal 06
 actions:
 - action_default_ask_affirmation
 - action_default_fallback
@@ -759,6 +761,7 @@ actions:
 - utter_01_impatient_user
 - utter_normal_02
 - utter_normal_04
+- utter_normal_06
 forms:
 - sales_form
 - subscribe_newsletter_form
